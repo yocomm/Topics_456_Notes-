@@ -101,3 +101,35 @@ public class HelloForLoop {
                                                 System.out.println(“One of the second year classes is " + classNames[2]);
                                                 int number0fClasses = classNames.length;
                                                 System.out.println(“There are * + numberOfClasses + “ classes.");
+
+
+                                                public static void main(String[] args) { s
+// start with a list of distances in miles ‘
+// Create a new array with the corresponding distances in kilometers :
+                                                        * doublel] miles = {1, 4, 20 }; | // sone example istances |
+
+                                                    double[] kilometers = new double[miles.length];
+                                                    for (int X = 1 ; x<=miles.length; x++) {
+
+                                                        double km = miles[x] / 1.6;
+
+                                                        kilometers[x] = km;
+                                                    }
+                                                    for (int x = 8; X < miles.length; x++) {
+
+                                                        System.out.printin(miles[x] + " miles is equal to "
+
+                                                                + kilometers[x] + " kilometers");
+
+                                                    }
+
+
+                                                    import static input.InputUtils.stringlnput;
+                                                    public class HelloMethods {
+                                                        public static void main(String[] args) {
+                                                            prm—
+                                                            System.out.println("Hello world!");
+                                                            System.out.println("Welcome, " + name);
+                                                            String shoutName = name.toUpperCase();
+                                                            System.out.printin('");
+                                                        }
