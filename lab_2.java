@@ -80,7 +80,7 @@ public class HelloForLoop {
                                             // Create a string array, initialized with data
 
                                             String(] classrooms = { "T3010", “T3020", "T3030", "T3040", "T3050", “T3080"};
-                                            //Use a loop to print all of the data from the array
+                                            //Use  loop to print all of the data from the array
 
                                             //Notice how the loop counter is used
 

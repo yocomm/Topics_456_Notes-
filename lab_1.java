@@ -115,4 +115,4 @@ import static input.InputUtils.doubleInput;
                                 System.out.println("Your guess is 1 too low!");
 
                             } else {
-                                System.out.println("No, I was thinking of " + secretNumber);
+                                System.out.println("No, i was thinking of " + secretNumber);
